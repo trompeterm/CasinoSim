@@ -1,5 +1,6 @@
 # Casino Simulator
-### C++ Final Project
+C++ Final Project
+
 ### Miles Trompeter
 
 ### Build Instructions:
